@@ -1,6 +1,6 @@
 // flickr-fetcher-spec.js
 //'use strict';
-var expect = require('chai').expect;
+//var expect = require('chai').expect;
 
 describe('sorting list of users with angular', function() {
     it('should sort in descending order by default', function() {
